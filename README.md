@@ -8,7 +8,7 @@ Use the table below to find a video you're interested in, and use the **Release*
 
 | Video                    | Release       | Description                                                                  |
 |--------------------------|---------------|------------------------------------------------------------------------------|
-| [Part 1: Getting Started](https://www.youtube.com/watch?v=v-hyfciTHAI)  | [Release 1](#) | Creating a web app from the Portal, and setting up CI/CD with GitHub Actions |
+| [Part 1: Getting Started](https://www.youtube.com/watch?v=v-hyfciTHAI)  | [Release 1](#) | Create a web app from the Portal, and set up CI/CD with GitHub Actions |
 | Part 2: TBD | Release 2 | TBD |
 | Part 3: TBD | Release 3 | TBD |
 
