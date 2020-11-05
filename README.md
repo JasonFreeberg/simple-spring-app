@@ -8,7 +8,7 @@ Use the table below to find a video you're interested in, and use the **Release*
 
 | Video                    | Release       | Description                                                                  |
 |--------------------------|---------------|------------------------------------------------------------------------------|
-| [Part 1: Getting Started](https://www.youtube.com/watch?v=v-hyfciTHAI)  | [Release 1](#) | Create a web app from the Portal, and set up CI/CD with GitHub Actions |
+| [Part 1: Getting Started](https://www.youtube.com/watch?v=v-hyfciTHAI)  | [Release 1](https://github.com/JasonFreeberg/simple-spring-app/releases/tag/1.0) | Create a web app from the Portal, and set up CI/CD with GitHub Actions |
 | Part 2: TBD | Release 2 | TBD |
 | Part 3: TBD | Release 3 | TBD |
 
