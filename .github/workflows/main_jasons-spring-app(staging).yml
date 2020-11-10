@@ -26,7 +26,7 @@ jobs:
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'jasons-spring-app(staging)'
+        app-name: 'jasons-spring-app'
         slot-name: 'staging'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_41334b48b671415b9bb4bb3ada256e6d }}
         package: '${{ github.workspace }}/target/*.jar'
