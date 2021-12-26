@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     environment:
-      name: 'Production'
+      name: 'dev'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
     
     steps:
@@ -48,6 +48,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'app-svc-github-action-poc'
-          slot-name: 'Production'
+          slot-name: 'dev'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D978108CBB14D2094FA79FFDEFEE0BA }}
           package: '*.jar'
