@@ -15,7 +15,7 @@ class DemoApplicationTests {
 	@Test
 	void testEndpoint() {
 		HomeController cont = new HomeController();
-		assert cont.home().equals("Não é ! Hello from Azure App Service (in the staging slot)!");
+		assert cont.home().equals("Não é mamãe!  from Azure App Service (in the staging slot)!");
 	}
 
 }
